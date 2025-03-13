@@ -1,8 +1,8 @@
 # Hi, I am Evangelos!  
 [Programmer](https://github.com/psyllakis) | [Data Analyst](https://www.linkedin.com/in/evangelos-psyllakis/)
 
-## 👨‍💻 Thesis:
-- **Monitoring of Nasal Mucosa Blood Supply Alterations by Means of a Computer Vision System**
+## 📄 My Thesis
+- [**Monitoring of Nasal Mucosa Blood Supply Alterations by Means of a Computer Vision System**](https://github.com/psyllakis/THESIS)
 
 ## 📚 Publications:
 - **Non-invasive leaf hydration status determination through convolutional neural networks based on multispectral images in chrysanthemum**  
